@@ -3,7 +3,7 @@
 A dynamic GitHub stats card that looks like a **terminal window** 🖥️.  
 This generates an SVG with your GitHub activity and updates automatically using GitHub Actions.
 
-![GitHub Stats – Terminal Style](https://raw.githubusercontent.com/sumoondev/github-stats-terminal-style/master/github_stats.svg)
+![GitHub Stats – Terminal Style](https://raw.githubusercontent.com/sumoondev/github-stats-terminal-style/main/github_stats.svg)
 
 ---
 
